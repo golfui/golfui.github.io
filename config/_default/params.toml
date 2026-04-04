@@ -17,7 +17,7 @@ emoji = "🍥"
 subtitle = ""
 
 [sidebar.avatar]
-enabled = true
+enabled = false
 local = true
 src = "img/photo.jpg"
 
